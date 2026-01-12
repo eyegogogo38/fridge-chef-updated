@@ -1,0 +1,5 @@
+{
+  "name": "Fridge Chef AI",
+  "description": "A sophisticated recipe generator that creates personalized meals based on your available ingredients and meal time, featuring AI-generated food photography.",
+  "requestFramePermissions": []
+}
